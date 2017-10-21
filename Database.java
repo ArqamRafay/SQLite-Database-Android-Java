@@ -1,5 +1,3 @@
-// https://www.youtube.com/watch?v=nmwecyCDAi8
-
 public class Database extends SQLiteOpenHelper {
 
     private static final String DATABASE_NAME = "text.db";
